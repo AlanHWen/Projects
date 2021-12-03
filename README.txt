@@ -19,6 +19,6 @@ methods:
 
 demo program description: 
   the demo program creates two objects p1 and p2. These objects are called with methods to move them around the x-y plane and change their speed. 
-  the demo program will run by default based off of the commands in main, but one can enter their own commands if they would like. 
+  the demo program will run by default based off of the commands in main, but one can create their own objects and move them around with methods as they like.  
   
   
